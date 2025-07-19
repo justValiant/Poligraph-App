@@ -2,7 +2,7 @@
 <br>
 <img src="https://imgur.com/uD5VTxW.png" alt="Poligraph Screenshot" width="200">
 <br>
-A simple app to help you understand Polygraphic Cypher
+A simple app to help you understand Polyalphabetic Cipher
 <br>
 
 ## 🛠️ Built With
