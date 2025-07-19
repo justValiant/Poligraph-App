@@ -6,10 +6,10 @@ A simple app to help you understand Polygraphic Cypher
 <br>
 
 ## 🛠️ Built With
-
-This app was created using [Kodular](https://www.kodular.io) – a visual, drag-and-drop platform for building Android apps.
-<br>
 ![Made with Kodular](https://img.shields.io/badge/built%20with-Kodular-blue?style=flat&logo=android)
+![Made in Indonesia](https://img.shields.io/badge/made%20in-Indonesia-red?style=flat&logo=flag&logoColor=white)
+<br>
+This app was created using [Kodular](https://www.kodular.io) – a visual, drag-and-drop platform for building Android apps.
 <br>
 
 ## ✨ Features
